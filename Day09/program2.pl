@@ -85,7 +85,8 @@ sub line_in_box
 }
 
 
-sub get_lines {
+sub get_lines
+{
     my $coords = shift;
     my $lines = [];
 
